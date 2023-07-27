@@ -7,7 +7,7 @@ let pokemonList = [
     {
         name: 'Pikachu',
         height: 0.4,
-        types: 'electric'
+        types: ['electric']
     },
     {
         name: 'Gyarados',
